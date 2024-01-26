@@ -50,5 +50,16 @@
                 <img alt="GitHub License" src="https://img.shields.io/github/license/hadonis-testing/skills-github-pages">
             </td>
         </tr>
+        <tr>
+            <td rowspan="1">⚛️ React</td>
+            <td>
+                <a href="https://github.com/hadonis-testing/publish-react-with-github-page">publish-react-with-github-page</a>
+            </td>
+            <td>
+                <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/hadonis-testing/publish-react-with-github-page">
+                <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/hadonis-testing/publish-react-with-github-page">
+                <img alt="GitHub License" src="https://img.shields.io/github/license/hadonis-testing/publish-react-with-github-page">
+            </td>
+        </tr>
     </tbody>
 </table>
